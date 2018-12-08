@@ -1,13 +1,18 @@
-package Codewars;
+package codewarspractices;
 
 import java.util.Scanner;
 
 /**
  *
  * @author Manuel Espinosa Torres
+ * 
+ * '''Codewars exercise: "Multiply"'''
+ * 
+ * '''Description:'''
+ * Has no description.
+ * 
  */
 public class ASum {
-    
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         
