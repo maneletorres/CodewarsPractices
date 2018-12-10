@@ -17,8 +17,9 @@ package codewarspractices;
  * 
  */
 public class CamelCase {
-    public static void main(String[] argsd){
-        System.out.println(camelCase("ab  c"));
+    public static void main(String[] args){
+        String chain = "camel case word";
+        System.out.println("The result of converting the string '" + chain + "' to the 'camelCase' format is: " + camelCase(chain) + ".");
     }
     
     public static String camelCase(String str) {
