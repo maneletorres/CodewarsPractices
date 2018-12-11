@@ -54,7 +54,7 @@ public class DRoot {
         } else {
           int result = 0;
           for(int i = 0; i < aux.length(); i++){
-              result += Integer.parseInt(aux.charAt(i) + "");
+              result += Integer.parseInt(Character.toString(aux.charAt(i)));
           }
 
           return digital_root(result);
