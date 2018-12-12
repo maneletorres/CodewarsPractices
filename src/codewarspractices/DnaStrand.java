@@ -29,7 +29,7 @@ package codewarspractices;
 public class DnaStrand {
     public static void main(String[] args){
         String chain = "ATTGC";
-        System.out.println("The result of applying the 'Complementary DNA' function to the string " + chain + " is: " + makeComplement(chain));
+        System.out.println("The result of applying the 'Complementary DNA' function to the string '" + chain + "' is: " + makeComplement(chain) + ".");
     }
     
     public static String makeComplement(String dna) {
