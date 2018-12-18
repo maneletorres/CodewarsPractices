@@ -1,4 +1,4 @@
-package codewarspractices;
+package codewarspracticesjava;
 
 import java.util.Scanner;
 
