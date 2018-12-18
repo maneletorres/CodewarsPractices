@@ -1,2 +1,2 @@
-# CodewarsPractices - JavaScript
-Codewars practical exercises done in JavaScript.
+# CodewarsPractices - Java
+Codewars practical exercises done in Java.
