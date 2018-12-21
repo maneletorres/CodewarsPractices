@@ -29,7 +29,8 @@ import java.util.Map;
 public class FactDecomp {
 
     public static void main(String[] args) {
-        System.out.println(decomp(17));
+        int number = 25;
+        System.out.println("Factorial descomposition of the number " + number + " is: " + decomp(number) + ".");
     }
 
     public static String decomp(int n) {
